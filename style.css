@@ -81,7 +81,8 @@ body {
   padding-bottom: 0;
 }
 .food-wrapper img {
-  height: auto;
+  display: block;
+  min-height: 100%;
   max-width: 100%;
 } 
 /* food-wrapper */
