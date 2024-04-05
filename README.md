@@ -71,7 +71,8 @@ How to use the CSS `counter-reset` and `counter-increment`
 
 #### Example
 
-Suppose we want to style the following `ol` element where each `li` child has the `✅` checkbox before it's number:
+Suppose we want to style the following `ol` element, which
+each `li` child must have the `✅` checkbox before its number:
 
 ```html
 <ol>
@@ -115,10 +116,10 @@ li::before {
 
 ### Continued development
 
-It would be good, if I could:
+It would be nice if I could:
 
-- implement the design of this challenge **without** using CSS Media Query.
-- animate each recipe section when the user is scrolling on the page.
+- Implement the design of this challenge without using CSS Media Query.
+- Animate each recipe section when the user is scrolling on the page.
 
 ### Useful resources
 
