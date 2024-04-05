@@ -47,8 +47,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
-- [Live Site](https://your-live-site-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/responsive-recipe-page-using-css-media-query-UK55_JEHqR)
+- [Live Site](https://alberto-rj.github.io/recipe-page/)
 
 ## My process
 
