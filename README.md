@@ -127,6 +127,6 @@ It would be nice if I could:
 
 ## Author
 
-- Github - [Alberto Raúl José](https://github.com/alberto-rj)
+- Github - [@alberto-rj](https://github.com/alberto-rj)
 - Frontend Mentor - [@alberto-rj](https://www.frontendmentor.io/profile/alberto-rj)
 - Twitter - [@albertorauljose](https://www.twitter.com/yourusername)
